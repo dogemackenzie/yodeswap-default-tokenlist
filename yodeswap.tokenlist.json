@@ -175,11 +175,11 @@
         },
         {
             "chainId": 2000,
-            "address": "0x0caE51e1032e8461f4806e26332c030E34De3aDb",
-            "name": "FKSLURPDEV",
-            "symbol": "SLURP",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x0caE51e1032e8461f4806e26332c030E34De3aDb/logo.png"
+            "address": "0x25eef4821db7cdb7d294a93b0d14e533d5f928df",
+            "name": "Doge MacKenzie",
+            "symbol": "DMACKENZIE",
+            "decimals": 9,
+            "logoURI": "https://raw.githubusercontent.com/yodedex/yodeswap-default-tokenlist/main/assets/dogechain/0x25eef4821db7cdb7d294a93b0d14e533d5f928df/logo.png"
         }
     ]
 }
